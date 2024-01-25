@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    cout
+    string signo = (numero >= 0)?"positivo":"Negativo"
+    return 0 ;
+}

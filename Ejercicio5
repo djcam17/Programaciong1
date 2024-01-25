@@ -1,0 +1,10 @@
+#include <iostream>
+
+using namespace std;
+
+int = 18;
+
+string mensaje = ( nota >= 11) ? "Eres chancon" : "Te falta";
+
+int main() { 
+cout << mensaje;
